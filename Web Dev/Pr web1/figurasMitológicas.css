@@ -1,0 +1,144 @@
+.cabecalho{
+    background-color: #ff6e01;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.titulo_navi{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #160821;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.imagem_cabecalho{
+    width: 100%;
+    height: 300px;
+}
+
+.menu{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.menu2{
+    position: absolute;
+    top: 80px;
+    right: 0;
+}
+
+.item_menu{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.link_menu{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #160821;
+    font-weight: bold;
+    font-size: 20px;
+}
+.link_menu:hover{
+    color: #445b8d;
+    text-decoration: underline;
+}
+main{
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.figura{
+    width: 940px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.figura li {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+    padding: 50px 0;
+}
+
+.figura li:hover{
+border-color: #445b8d;
+}
+
+.figura li:hover h2{
+    font-size: 35px;
+    color: #fd3411;
+}
+
+.figura h2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px 0;
+}
+
+.figura p {
+    text-align: justify;
+    width: 250px;
+    padding: 5px 0;
+}
+
+.rodape{
+    background-color: #160821;
+    color: azure;
+    height: 30px;
+    text-align: center;
+    padding-top: 18px;
+    bottom: 0px;
+    width: 100%;
+}
+.titulo_sobre {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.texto_sobre{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+.fig_africa{
+    text-align: center;
+}
+
+.imagem_africa{
+    width: 30%;
+    border-left: 40%;
+    text-align: center;
+}
+
+.temas h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+.temas ul {
+    padding-bottom: 10px;
+}
+
+.temas li {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.imagem_fig{
+    width: 250px;
+}
+.frase_inicio{
+    font-style: oblique;
+    font-size: 30px;
+    text-align: center;
+}
